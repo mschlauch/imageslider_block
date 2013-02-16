@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the imageslider block feature.
+ */
+
+include_once 'imageslider_block.features.inc';
